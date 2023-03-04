@@ -27,4 +27,4 @@ Linux için:
 ### Proje görseli
 
 
-![Image banner]()
+![Image banner](https://github.com/GulustanKarakas/kodluyoruzilkrepo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-04%20202751.png?raw=true)
