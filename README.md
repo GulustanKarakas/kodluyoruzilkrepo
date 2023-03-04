@@ -3,7 +3,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşdurduğ
 
 ## Installation
 
-`git clone https://github.com/Fidankilinc/kodluyoruzilkrepo.git`
+`git clone https://github.com/GulustanKarakas/kodluyoruzilkrepo.git`
 
 ### Usage
 
